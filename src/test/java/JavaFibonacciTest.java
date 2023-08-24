@@ -33,4 +33,28 @@ public class JavaFibonacciTest {
         int expected = 21;
         assertEquals(expected, actual);
     }
+
+    @Test
+    void makeFibonacci_whenNumberIsNeg1_return1(){
+        int n = -1;
+        int actual = JavaFibonacci.makeFibonacci(n);
+        int expected = 1;
+        assertEquals(expected, actual);
+    }
+
+    @Test
+    void makeFibonacci_whenNumberIsNeg2_returnNeg1(){
+        int n = -2;
+        int actual = JavaFibonacci.makeFibonacci(n);
+        int expected = -1;
+        assertEquals(expected, actual);
+    }
+
+    @Test
+    void makeFibonacci_whenNumberIsNeg7_return13(){
+        int n = -7;
+        int actual = JavaFibonacci.makeFibonacci(n);
+        int expected = 13;
+        assertEquals(expected, actual);
+    }
 }
