@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e13f31ff-bf0b-49c4-87e6-d38cbf24e910" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/JavaFibonacciTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JavaFibonacciTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaFibonacci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,22 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="JavaFibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaFibonacci" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JavaFibonacciTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JavaFibonacciTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692881045680</updated>
       <workItem from="1692881046794" duration="25000" />
-      <workItem from="1692881079887" duration="760000" />
+      <workItem from="1692881079887" duration="1363000" />
     </task>
     <servers />
   </component>
